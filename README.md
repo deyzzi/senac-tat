@@ -2,3 +2,8 @@
 
 # senac-tat
 Aulas do curso Técnico em Informática do SENAC Tatuapé
+
+
+## Teste de integração com o Git 
+Hello Git 
+ 
